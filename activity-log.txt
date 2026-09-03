@@ -1,0 +1,9 @@
+LAB 4 ACTIVITY LOG
+Date: 02 September 2026
+Environment: Kali Linux VM, isolated DVWA, OWASP Mutillidae II, OWASP ZAP
+
+Scope:
+- DVWA: local instance only
+- Mutillidae II: local instance only
+- Harmless XSS markers only
+- Authentication test limited to five failed attempts per target
